@@ -1,0 +1,22 @@
+#page-content {
+    margin-top: 20px;
+    margin-bottom: 120px;
+}
+
+#portrait-img {
+    height: 90%;
+}
+
+.card-body-image img {
+    height: 60px;
+    float: right;
+}
+
+.jumbotron {
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+}
+
+footer {
+    background-color: white;
+}
