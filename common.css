@@ -1,6 +1,8 @@
 #page-content {
     margin-top: 20px;
     margin-bottom: 120px;
+    padding-left: 5px;
+    padding-right: 5px;
 }
 
 .card-body-image img {
