@@ -1,8 +1,6 @@
 .tab-pane {
     margin-top: 20px;
     margin-bottom: 30px;
-    padding-left: 5px;
-    padding-right: 5px;
 }
 
 .card-body-image img {
@@ -13,8 +11,4 @@
 .jumbotron {
     padding-top: 3rem;
     padding-bottom: 2rem;
-}
-
-footer {
-    background-color: white;
 }
